@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kaan Akduman",
+    "description": "",
+    "home_page_url": "https://kaanakduman.com",
+    "feed_url": "https://kaanakduman.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kaan Akduman"
+    },
+    "items": [
+        {
+            "id": "https://kaanakduman.com/kaan-akduman/",
+            "url": "https://kaanakduman.com/kaan-akduman/",
+            "title": "Kaan Akduman",
+            "summary": "Hi, I'm Kaan I'm a graduate of Case Western Reserve University with a B.S in Computer Science and a minor in Business Management. I'm working as a Software Developer with Epic. In my free time, I enjoy creating Minecraft plugins, solving word games, and playing&hellip;",
+            "content_html": "\n  <p>\n    Hi, I'm Kaan I'm a graduate of Case Western Reserve University with a B.S in Computer Science and a minor in Business Management. I'm working as a Software Developer with Epic. In my free time, I enjoy creating Minecraft plugins, solving word games, and playing tennis.\n  </p>",
+            "author": {
+                "name": "Kaan Akduman"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-09T16:56:36-05:00",
+            "date_modified": "2025-06-15T17:56:41-05:00"
+        }
+    ]
+}
